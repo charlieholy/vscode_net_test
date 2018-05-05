@@ -1,4 +1,4 @@
-SRCS = $(wildcard myping.cpp )
+SRCS = $(wildcard myarp.cpp )
 
 OBJS = $(SRCS:.c = .o)
 
